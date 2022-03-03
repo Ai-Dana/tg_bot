@@ -11,7 +11,7 @@ import aiogram.utils.markdown as fmt
 url = 'http://127.0.0.1:8000/uploadfile_from_tg_bot?access_token=ACCESS_TOKEN&type=TYPE'
 
 
-TOKEN = "2026875292:AAHj7FXn91X80f9JEVEASJPE5lIUp6K27uw"
+TOKEN ="YOURTOKEN"
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
